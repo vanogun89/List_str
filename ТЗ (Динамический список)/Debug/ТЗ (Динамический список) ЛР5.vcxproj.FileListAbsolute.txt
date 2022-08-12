@@ -1,0 +1,2 @@
+C:\Users\vanya\source\repos\ТЗ (Динамический список) ЛР5\Debug\ТЗ (Динамический список) ЛР5.exe
+C:\Users\vanya\source\repos\ТЗ (Динамический список) ЛР5\Debug\ТЗ (Динамический список) ЛР5.pdb
